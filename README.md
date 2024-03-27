@@ -2,7 +2,7 @@
 # The Cacti App
 
 
-This is simple **CRUD API** builded with **NestJS**.<br>
+This is app builded with **NestJS**.<br>
 Interaction with **PostgreSQL** database implemented with **Sequelize**.<br>
 The API is described with **Swagger**.
 
